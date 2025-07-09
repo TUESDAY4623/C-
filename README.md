@@ -1,2 +1,2 @@
-# C-
+# C++
 just for learning
